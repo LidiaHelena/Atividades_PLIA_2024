@@ -1,1 +1,1 @@
-# Enviando dados para o cabo sereal
+# Enviando dados para o porta sereal
