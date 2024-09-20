@@ -27,11 +27,10 @@ O programa funciona da seguinte maneira:
    - Conecte o outro terminal do botão a uma fonte de 5V.
    - Conecte um resistor de 10 kΩ entre o pino 2 e o GND para configurar o resistor pull-up.
 
-2. **Protoboard e Fios de Conexão**:
-
-## Criador deste README: https://github.com/Epaminondaslage
+2. **Protoboard e Fios de Conexão**
    - Use a protoboard para montar o circuito e organizar as conexões.
    - Utilize fios de conexão (jumpers) para ligar os componentes ao Arduino.
 
+## Criador deste README: https://github.com/Epaminondaslage
 
 
