@@ -1,1 +1,1 @@
-# Luzes de sinalização de trãnsito: 3 LEDS
+# Luzes de sinalização de trânsito: 3 LEDS
