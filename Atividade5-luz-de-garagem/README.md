@@ -9,5 +9,5 @@
 - 2 resistores de 220 ohms
 - 6 fios
 ## Diagrama 
- 
-(https://github.com/user-attachments/assets/a1892a51-674a-4071-bb0d-05553735634f)
+<img src="https://github.com/user-attachments/assets/a1892a51-674a-4071-bb0d-05553735634f" alt="Circuito" width="50%"> 
+
