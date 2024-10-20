@@ -5,7 +5,7 @@
  ## Peças necessárias
 - 1 Arduíno Uno
 - 1 protoboard
-- 2 LEDs
+- 2 LEDs de 5 mm
 - 2 resistores de 220 ohms
 - 6 fios
 ## Diagrama 
