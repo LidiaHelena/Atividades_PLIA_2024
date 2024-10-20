@@ -10,3 +10,4 @@
 - 6 fios
 ## Diagrama 
  
+(https://github.com/user-attachments/assets/a1892a51-674a-4071-bb0d-05553735634f)
